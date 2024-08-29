@@ -10,18 +10,6 @@ This project is a comprehensive analysis focused on optimizing stock portfolios 
 - Utilize historical data to compare performance against benchmarks such as the S&P 500.
 - Enhance Python programming skills through the implementation of various financial models and data analysis techniques.
 
-## Industries Analyzed
-- Renewable Energy
-- Finance
-- Artificial Intelligence and Technology
-- Biotechnology
-- Consumer Staples
-- Commodities
-- Health Technology
-- Emerging Markets
-- Real Estate
-- Industry
-
 ## Methodology
 1. **Data Collection**: Downloaded historical data from Yahoo Finance covering the years 2014 to 2024.
 2. **Data Analysis**:
